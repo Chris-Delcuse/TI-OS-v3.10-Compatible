@@ -6,8 +6,8 @@
 :© "True" or "False"
 :
 :Try
-:expr(str)→str
-:"True"→istr
+: expr(str)→str
+: "True"→istr
 :Else
 : ClrErr
 : "False"→istr

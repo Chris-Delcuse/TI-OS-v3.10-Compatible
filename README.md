@@ -7,3 +7,5 @@ CustmKill() represents a new direction in TI-basic development for me, really di
 I'm also taking advantage of not having computer, to provide code devoid of personal files.
 
 This repo is designed for those who want to fully utilize the basic programming functions.
+
+Pure TI-Basic !

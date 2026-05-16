@@ -3,14 +3,14 @@
 :
 :© Check str is a string
 :© istr takes the value
-:© "True" or "False"
+:© true or false
 :
 :Try
 : expr(str)→str
-: "True"→istr
+: true→istr
 :Else
 : ClrErr
-: "False"→istr
+: false→istr
 :EndTry
 :
 :EndPrgm

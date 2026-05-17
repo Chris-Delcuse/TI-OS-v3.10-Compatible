@@ -1,8 +1,0 @@
-;Love(lov)
-:Prgm
-:If lov>3*1000 Then
-: Text ":)"
-:Else
-: Text ":("
-:EndIf
-:EndPrgm

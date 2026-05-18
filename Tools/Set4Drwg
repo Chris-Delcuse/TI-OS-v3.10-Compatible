@@ -8,7 +8,7 @@
 :© Use OS Fonction [F7]
 :© (Pencil, Line...Save)
 :© Easy-to-read :
-:© Coord(x,-y) = Pxl(r,c)
+:© Coord(-y,x) = Pxl(r,c)
 :
 :ClrErr
 :

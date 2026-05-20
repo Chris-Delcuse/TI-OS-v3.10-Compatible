@@ -1,5 +1,3 @@
-TI-Basic_OS-v3.10
-
 I gather here, the knowledge i have of this OS, especially the TI-89.
 
 CustmKill() represents a new direction in TI-basic development for me, really differrent from what i've seen before.

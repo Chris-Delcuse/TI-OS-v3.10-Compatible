@@ -1,4 +1,4 @@
-8# TI-Basic_OS-v3.10
+TI-Basic_OS-v3.10
 
 I gather here, the knowledge i have of this OS, especially the TI-89.
 

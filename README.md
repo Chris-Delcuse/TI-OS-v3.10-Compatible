@@ -10,4 +10,4 @@ This repo is designed for those who want to fully utilize the basic programming 
 
 Pure TI-Basic !
 
-(Do not add this repo to your sources.list, browser only.)
+Note: (Do not add this repo to your sources.list, browser only.)

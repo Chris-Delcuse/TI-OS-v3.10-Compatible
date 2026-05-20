@@ -8,6 +8,6 @@ I'm also taking advantage of not having computer, to provide code devoid of pers
 
 This repo is designed for those who want to fully utilize the basic programming functions.
 
-(Do not add this repo to your sources.list, browser only.)
-
 Pure TI-Basic !
+
+(Do not add this repo to your sources.list, browser only.)

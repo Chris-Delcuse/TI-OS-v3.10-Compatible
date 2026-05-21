@@ -8,5 +8,5 @@ INSTRING2
 
 ISSTRING
 
-- Enrich your programs requiring user input
+- To secure your programs requiring user input
 (For declared variables, prefer 'getType()')
